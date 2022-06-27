@@ -1,20 +1,21 @@
 const CONFIG = {
     titleWeb: "For MyHTA",
     introTitle: 'Hà Thị Ái My',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Gọi em là hoa hồng
+    Vì xung quanh em đầy guys`,
     btnIntro: '^^Tu bi con ti niu^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😘',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    title: 'Chỉ là Tuấn muốn một cuộc hẹn để có thể hiểu My nhiều hơn',
+    desc: `Tôi muốn tắt nắng đi
+    Cho màu đừng nhạt mất
+    Tôi muốn buộc gió lại
+    Cho hương đừng bay đi `,
+    btnYes: 'Đồng ý',
+    btnNo: 'Không nha :(((((((((',
+    question: 'Nếu cái icon nó chạy hoài làm My không chọn được đáp án thì thử gõ đáp án heyyyyy',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Tất nhiên là My cũng thích Tuấn rồi.......Nhấn Enter đi nào..................................',
-    mess: 'Mình biết mà <3. 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'My đồng ý :v :v :v..........................................................................',
+    mess: 'Có thể câu trả lời là có hoặc không, thì T cũng muốn có 1 cơ hội 😘',
+    messDesc: 'Hẹn My trưa Thứ 4 cho Tuấn mời cơm 1 bữa nha',
     btnAccept: 'Click để biết ai xinh nhất quả đất',
-    messLink: 'https://i.imgur.com/Twk8Fij.jpg'
+    messLink: 'https://i.imgur.com/m469WXQ.jpg'
 }
