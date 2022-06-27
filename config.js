@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Gọi em là hoa hồng
     Vì xung quanh em đầy guys`,
     btnIntro: '^^Tu bi con ti niu^^',
-    title: 'Chỉ là Tuấn muốn một cuộc hẹn để có thể hiểu My nhiều hơn',
+    title: 'Chỉ là Tuấn muốn hẹn lại một cuộc hẹn để có cơ hội gặp My và có thể hiểu My nhiều hơn',
     desc: `Tôi muốn tắt nắng đi
     Cho màu đừng nhạt mất
     Tôi muốn buộc gió lại
