@@ -11,7 +11,7 @@ const CONFIG = {
     Cho hương đừng bay đi `,
     btnYes: 'Đồng ý',
     btnNo: 'Không nha :(((((((((',
-    question: 'Nếu cái icon nó chạy hoài làm My không chọn được đáp án thì thử gõ đáp án heyyyyy',
+    question: 'Nếu cái icon nó chạy hoài làm My không chọn được đáp án thì thử gõ đáp án nha!!!',
     btnReply: 'Gửi cho Tuấn',
     reply: 'My đồng ý :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v',
     mess: 'Có thể câu trả lời là có hoặc không, thì T cũng muốn có 1 cơ hội 😘',
