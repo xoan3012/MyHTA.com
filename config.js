@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho Tuấn',
     reply: 'Hôm nào rảnh My mời nước nha, chúng ta sẽ nói chuyện như 2 người bạn :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v :v',
     mess: 'Không biết My còn vào lại trang này để xem không :v :v :v',
-    messDesc: 'Chúc My thành công trong gia đình và cuộc sống',
+    messDesc: 'Chúc My luôn thành công trên con đường mình đã chọn',
     btnAccept: 'Click Here <3',
     messLink: 'https://i.imgur.com/m469WXQ.jpg'
 }
