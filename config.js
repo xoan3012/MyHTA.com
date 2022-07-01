@@ -1,8 +1,7 @@
 const CONFIG = {
     titleWeb: "For MyHTA",
     introTitle: 'Hà Thị Ái My',
-    introDesc: 
-    `Có những lương duyên khi bắt đầu (dù rất nhanh) đã chắc chắn như “ván đã đóng thuyền”<br>
+    introDesc: `Có những lương duyên khi bắt đầu (dù rất nhanh) đã chắc chắn như “ván đã đóng thuyền”<br>
     có những duyên phận khi bắt đầu (dù dài hơi) đã định trước là sẽ phải ra đi<br>
     Có những duyên phận chẳng bao giờ có kết quả tốt đẹp.`
     btnIntro: '^^Tu bi con ti niu^^',
