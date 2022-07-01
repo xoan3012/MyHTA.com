@@ -1,14 +1,13 @@
 const CONFIG = {
     titleWeb: "For MyHTA",
     introTitle: 'Hà Thị Ái My',
-    introDesc: `Gọi em là hoa hồng
-    Vì xung quanh em đầy guys`,
+    introDesc: 
+    `Có những lương duyên khi bắt đầu (dù rất nhanh) đã chắc chắn như “ván đã đóng thuyền”<br>
+    có những duyên phận khi bắt đầu (dù dài hơi) đã định trước là sẽ phải ra đi<br>
+    Có những duyên phận chẳng bao giờ có kết quả tốt đẹp.`
     btnIntro: '^^Tu bi con ti niu^^',
-    title: 'Chỉ là Tuấn muốn hẹn lại một cuộc hẹn để có cơ hội gặp My và có thể hiểu My nhiều hơn',
-    desc: `Tôi muốn tắt nắng đi
-    Cho màu đừng nhạt mất
-    Tôi muốn buộc gió lại
-    Cho hương đừng bay đi `,
+    title: 'Nếu đã là Duyên, thì dù có xa cách thế nào cũng tìm được đường gặp lại. <br>Nếu đã là Nợ, thì dù có trốn tránh tới đâu cũng không thể thoát được. <br> Và khi đã là Phận, thì đơn giản, là không thể chống lại…',
+    desc: `Chuyện tình cảm, cứ để nó tự nhiên, nếu có duyên sẽ chẳng sợ lạc đường`
     btnYes: 'Đồng ý',
     btnNo: 'Không nha :(((((((((',
     question: 'Nếu cái icon nó chạy hoài làm My không chọn được đáp án thì thử gõ đáp án nha!!!',
