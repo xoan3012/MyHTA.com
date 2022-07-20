@@ -1,3 +1,5 @@
+var message = "Trang web đã được thay đổi nội dung trước đó vào ngày 01/07/2022, Click OK nếu My muốn xem tiếp nội dung";
+alert(message);
 $(document).ready(function() {
     // process bar
     setTimeout(function() {
