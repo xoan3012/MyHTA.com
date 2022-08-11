@@ -1,4 +1,4 @@
-var message = "Cần thêm bao nhiêu nắng, để vừa bóng tối lạnh lùng...";
+var message = "Lost...";
 alert(message);
 $(document).ready(function() {
     // process bar
