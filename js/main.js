@@ -1,4 +1,4 @@
-var message = "I lost you .......";
+var message = ":((((((((((((((";
 alert(message);
 $(document).ready(function() {
     // process bar
